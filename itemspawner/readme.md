@@ -6,7 +6,7 @@ Use /addrandomspawnpos for adding random spawn position.
     For updating positions type spawnerdebugreloadpos 
 
 Use /addrandomspawn for add items to the pool.
-Syntax: <uniqueID><getposBool> 
+Syntax: *uniqueID* *getposBool*
 If you would do something like 
     /addrandomspawn pot true then this item will spawn on this position.
 
